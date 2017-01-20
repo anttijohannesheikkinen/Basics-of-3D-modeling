@@ -1,6 +1,57 @@
+LUENTO 1
+
 Cinema 4D has a student version available.
 
 topi.blogs.tamk.fi
 3D grafiikka
 
 haasteiden palautus: 3D- malli ja rendaus kevyessä tiedostomuodossa
+
+c
+convert to editable mesh
+
+
+LUENTO 2
+
+Max
+
+Alt + W 
+suurenna aktiivinen ikkuna
+
+right click
+työkalu pois päältä
+
+alt + rmb
+rotate view
+
+ctrl + alt + mouse ??
+good zoom
+
+
+w
+e
+r
+move, rotate, scale
+
+Kato jostain kaikki ne pikanäppäimet kun tarvitset jotain softaa
+
+v
+viewport
+
+g
+grid on/off
+
+VINKKI: harjoittele kaikki snappitoiminnot, mitä softaa käytätkin
+
+bool
+convert to editable poly to use bool properly
+
+Max 
+
+extrude
+shift + e
+
+polygoniluupin valinta:
+shift kun polygoni valittu ja klikkaa viereistä
+
+inset - lisää pintaa
