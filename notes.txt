@@ -55,3 +55,13 @@ polygoniluupin valinta:
 shift kun polygoni valittu ja klikkaa viereistä
 
 inset - lisää pintaa
+
+LUENTO 3
+
+Cinema4d
+
+hiiren 2 - avaa relevanttien työkalujen valikon
+
+D = extrude
+
+isoline editing - polygonirautalanka esiin subdivisionista huolimatta
