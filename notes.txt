@@ -80,3 +80,5 @@ TurboSquidiin voi laittaa myyntiin malleja, voi sielt‰ ostaakin.
 Blenderill‰ kantsii savettaa materiaalit referenssiksi ik‰‰nkuin paletti-mieless‰.
 
 https://www.blenderguru.com/articles/7-ways-get-rid-fireflies/
+
+greyscalegorilla myy kuulemma hyv‰‰ kamaa
