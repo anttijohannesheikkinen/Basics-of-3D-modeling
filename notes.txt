@@ -65,3 +65,14 @@ hiiren 2 - avaa relevanttien työkalujen valikon
 D = extrude
 
 isoline editing - polygonirautalanka esiin subdivisionista huolimatta
+
+CHECKOUT MODO
+
+
+
+
+
+UVLayout
+120 e - kuulemma hyvä, muuten kantsii mäppäillä vaikka Blenderillä.
+
+TurboSquidiin voi laittaa myyntiin malleja, voi sieltä ostaakin.
